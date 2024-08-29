@@ -1,3 +1,5 @@
+# This project is under development
+---
 # Sectronize
 
 **Sectronize** is a Python-based application designed to distribute students into different sections based on their academic performance and skills. This project ensures fair and balanced section allocation within the university, taking into account various factors such as semester grades, overall grades, and programming skills.
